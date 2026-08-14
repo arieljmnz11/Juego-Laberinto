@@ -82,8 +82,6 @@ jobs:
         with:
           path: build/web
 
-  # Publica la version web en https://ariel-2006.github.io/Juego-Laberinto/
-  # Requiere activar Pages en Settings > Pages > Source: GitHub Actions
   publicar_web:
     needs: export_game
     runs-on: ubuntu-latest
