@@ -64,6 +64,22 @@ scale = Vector2(0.90409, 0.875601)
 [node name="enemis_4" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(393, 391)
 
+[node name="enemis_8" parent="." instance=ExtResource("4_s24i2")]
+position = Vector2(239, 166)
+scale = Vector2(0.7, 0.68)
+
+[node name="enemis_9" parent="." instance=ExtResource("5_66w8i")]
+position = Vector2(524, 426)
+scale = Vector2(0.9, 0.87)
+
+[node name="enemis_10" parent="." instance=ExtResource("3_aqy51")]
+position = Vector2(748, 296)
+scale = Vector2(0.65, 0.6)
+
+[node name="enemis_11" parent="." instance=ExtResource("4_s24i2")]
+position = Vector2(637, 230)
+scale = Vector2(0.7, 0.68)
+
 [node name="cronometro" parent="." instance=ExtResource("3_48hld")]
 
 [node name="GUI" parent="." instance=ExtResource("4_l45re")]

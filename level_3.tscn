@@ -80,6 +80,14 @@ z_index = 1
 position = Vector2(577, 338)
 scale = Vector2(0.950946, 0.942485)
 
+[node name="enemis_8" parent="." instance=ExtResource("7_7ds5r")]
+position = Vector2(523, 203)
+scale = Vector2(0.9, 0.85)
+
+[node name="enemis_9" parent="." instance=ExtResource("6_fmu3g")]
+position = Vector2(847, 299)
+scale = Vector2(0.9, 0.85)
+
 [node name="Punto_nivel" type="Area2D" parent="." groups=["player"]]
 position = Vector2(653, 109)
 script = ExtResource("5_1jdk1")

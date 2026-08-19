@@ -49,6 +49,14 @@ z_index = 1
 position = Vector2(488, 495)
 scale = Vector2(0.894739, 0.772798)
 
+[node name="enemis_8" parent="." instance=ExtResource("5_0s5r2")]
+position = Vector2(409, 258)
+scale = Vector2(0.9, 0.85)
+
+[node name="enemis_9" parent="." instance=ExtResource("7_7dov7")]
+position = Vector2(620, 350)
+scale = Vector2(1.0, 1.0)
+
 [node name="enemis_2" parent="." instance=ExtResource("6_7j8ne")]
 z_index = 1
 position = Vector2(383, 365)
