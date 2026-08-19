@@ -26,9 +26,10 @@ shape = SubResource("CapsuleShape2D_gn5py")
 wait_time = 1.2
 one_shot = true
 
-[node name="AttackArea" type="Area2D" parent="." groups=["enemigo"]]
+[node name="AttackArea" type="Area2D" parent="."]
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="AttackArea" groups=["enemigo"]]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="AttackArea"]
+
 position = Vector2(47, 62.5)
 shape = SubResource("RectangleShape2D_f0rxy")
 

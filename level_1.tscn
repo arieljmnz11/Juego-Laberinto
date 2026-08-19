@@ -67,7 +67,7 @@ target = NodePath("../Player")
 
 [node name="cronometro" parent="." instance=ExtResource("9_5rr72")]
 
-[node name="Punto_nivel" type="Area2D" parent="." groups=["player"]]
+[node name="Punto_nivel" type="Area2D" parent="."]
 position = Vector2(1142, 256)
 script = ExtResource("8_bjebc")
 new_scene_path = "res://level_2.tscn"

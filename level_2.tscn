@@ -87,7 +87,7 @@ position = Vector2(296, 137)
 z_index = 1
 position = Vector2(1035, 218)
 
-[node name="Punto_nivel" type="Area2D" parent="." groups=["player"]]
+[node name="Punto_nivel" type="Area2D" parent="."]
 position = Vector2(1142, 256)
 script = ExtResource("8_7dov7")
 new_scene_path = "res://level_3.tscn"
