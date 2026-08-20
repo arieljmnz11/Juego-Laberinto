@@ -24,7 +24,7 @@ scale = Vector2(1.29896, 1.24524)
 [node name="Player" parent="." instance=ExtResource("2_1y8me")]
 z_index = 1
 position = Vector2(-42, 265)
-scale = Vector2(1.12, 1.08)
+scale = Vector2(1.02, 0.98)
 
 [node name="Camera2D" parent="." node_paths=PackedStringArray("target") instance=ExtResource("3_7j8ne")]
 z_index = 1
@@ -61,12 +61,12 @@ scale = Vector2(1.2, 1.2)
 
 [node name="enemis_10" parent="." instance=ExtResource("7_7dov7")]
 z_index = 1
-position = Vector2(620, 160)
+position = Vector2(620, 175)
 scale = Vector2(1.0, 1.0)
 
 [node name="enemis_11" parent="." instance=ExtResource("7_7dov7")]
 z_index = 1
-position = Vector2(800, 95)
+position = Vector2(780, 115)
 scale = Vector2(1.0, 1.0)
 
 [node name="enemis_2" parent="." instance=ExtResource("6_7j8ne")]

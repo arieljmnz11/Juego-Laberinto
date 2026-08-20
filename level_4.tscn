@@ -62,7 +62,7 @@ position = Vector2(721, 395)
 scale = Vector2(0.90409, 0.875601)
 
 [node name="enemis_4" parent="." instance=ExtResource("5_66w8i")]
-position = Vector2(393, 391)
+position = Vector2(393, 371)
 
 [node name="enemis_8" parent="." instance=ExtResource("4_s24i2")]
 position = Vector2(239, 170)
@@ -90,7 +90,7 @@ scale = Vector2(0.9, 0.87)
 
 [node name="enemis_14" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(300, 420)
-scale = Vector2(0.9, 0.87)
+scale = Vector2(0.8, 0.77)
 
 [node name="cronometro" parent="." instance=ExtResource("3_48hld")]
 
