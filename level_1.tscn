@@ -56,8 +56,12 @@ position = Vector2(1053, 420)
 scale = Vector2(0.962178, 0.905716)
 
 [node name="enemis_6" parent="." instance=ExtResource("4_rka8t")]
-position = Vector2(684, 150)
-scale = Vector2(0.662178, 0.605716)
+position = Vector2(684, 160)
+scale = Vector2(0.762178, 0.705716)
+
+[node name="enemis_7" parent="." instance=ExtResource("4_rka8t")]
+position = Vector2(200, 448)
+scale = Vector2(0.654927, 0.634452)
 
 [node name="Camera2D" parent="." node_paths=PackedStringArray("target") instance=ExtResource("6_j7kpp")]
 position = Vector2(371, 488)

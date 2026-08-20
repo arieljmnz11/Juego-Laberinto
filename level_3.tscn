@@ -87,7 +87,7 @@ scale = Vector2(0.537257, 0.574387)
 
 [node name="enemis_9" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
-position = Vector2(847, 285)
+position = Vector2(847, 300)
 scale = Vector2(0.550946, 0.542485)
 
 [node name="Punto_nivel" type="Area2D" parent="."]
