@@ -81,10 +81,12 @@ position = Vector2(577, 338)
 scale = Vector2(0.950946, 0.942485)
 
 [node name="enemis_8" parent="." instance=ExtResource("7_7ds5r")]
+z_index = 1
 position = Vector2(523, 203)
 scale = Vector2(0.9, 0.85)
 
 [node name="enemis_9" parent="." instance=ExtResource("6_fmu3g")]
+z_index = 1
 position = Vector2(847, 299)
 scale = Vector2(0.9, 0.85)
 
