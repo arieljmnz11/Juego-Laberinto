@@ -57,7 +57,7 @@ scale = Vector2(0.862178, 0.805716)
 
 [node name="enemis_6" parent="." instance=ExtResource("4_rka8t")]
 position = Vector2(684, 154)
-scale = Vector2(0.9, 0.85)
+scale = Vector2(0.862178, 0.805716)
 
 [node name="Camera2D" parent="." node_paths=PackedStringArray("target") instance=ExtResource("6_j7kpp")]
 position = Vector2(371, 488)
