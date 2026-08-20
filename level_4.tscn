@@ -26,71 +26,71 @@ position = Vector2(339, 182)
 zoom = Vector2(1.7, 1.7)
 target = NodePath("../Player")
 
-[node name="Enemy" parent="." instance=ExtResource("3_aqy51")]
+[node name="Enemy_1" parent="." instance=ExtResource("3_aqy51")]
 position = Vector2(149, 84)
 scale = Vector2(0.758882, 0.728524)
 
-[node name="Enemy4" parent="." instance=ExtResource("3_aqy51")]
+[node name="Enemy_2" parent="." instance=ExtResource("3_aqy51")]
 position = Vector2(401, 166)
 scale = Vector2(0.637895, 0.570419)
 
-[node name="Enemy2" parent="." instance=ExtResource("3_aqy51")]
+[node name="Enemy_3" parent="." instance=ExtResource("3_aqy51")]
 position = Vector2(36, 288)
 scale = Vector2(0.668217, 0.640514)
 
-[node name="Enemy3" parent="." instance=ExtResource("3_aqy51")]
+[node name="Enemy_4" parent="." instance=ExtResource("3_aqy51")]
 position = Vector2(282, 482)
 scale = Vector2(0.668217, 0.640514)
 
-[node name="enemis_2" parent="." instance=ExtResource("4_s24i2")]
+[node name="Enemy_5" parent="." instance=ExtResource("4_s24i2")]
 position = Vector2(756, 47)
 scale = Vector2(0.62659, 0.679439)
 
-[node name="enemis_7" parent="." instance=ExtResource("4_s24i2")]
+[node name="Enemy_6" parent="." instance=ExtResource("4_s24i2")]
 position = Vector2(986, 256)
 scale = Vector2(0.555716, 0.526648)
 
-[node name="enemis_5" parent="." instance=ExtResource("4_s24i2")]
+[node name="Enemy_7" parent="." instance=ExtResource("4_s24i2")]
 position = Vector2(908, 190)
 scale = Vector2(0.544534, 0.581136)
 
-[node name="enemis_3" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_8" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(488, 260)
-scale = Vector2(0.744534, 0.781136)
+scale = Vector2(0.8, 0.84)
 
-[node name="enemis_6" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_9" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(721, 395)
 scale = Vector2(0.90409, 0.875601)
 
-[node name="enemis_4" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_10" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(393, 400)
-scale = Vector2(0.744534, 0.781136)
+scale = Vector2(0.8, 0.84)
 
-[node name="enemis_8" parent="." instance=ExtResource("4_s24i2")]
+[node name="Enemy_11" parent="." instance=ExtResource("4_s24i2")]
 position = Vector2(239, 170)
 scale = Vector2(0.7, 0.68)
 
-[node name="enemis_9" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_12" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(524, 456)
 scale = Vector2(0.9, 0.87)
 
-[node name="enemis_10" parent="." instance=ExtResource("3_aqy51")]
+[node name="Enemy_13" parent="." instance=ExtResource("3_aqy51")]
 position = Vector2(748, 296)
 scale = Vector2(0.65, 0.6)
 
-[node name="enemis_11" parent="." instance=ExtResource("4_s24i2")]
+[node name="Enemy_14" parent="." instance=ExtResource("4_s24i2")]
 position = Vector2(637, 230)
 scale = Vector2(0.7, 0.68)
 
-[node name="enemis_12" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_15" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(760, 460)
 scale = Vector2(0.9, 0.87)
 
-[node name="enemis_13" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_16" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(780, 130)
 scale = Vector2(0.9, 0.87)
 
-[node name="enemis_14" parent="." instance=ExtResource("5_66w8i")]
+[node name="Enemy_17" parent="." instance=ExtResource("5_66w8i")]
 position = Vector2(300, 470)
 scale = Vector2(0.8, 0.77)
 

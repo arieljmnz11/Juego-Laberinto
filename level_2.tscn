@@ -33,71 +33,71 @@ target = NodePath("../Player")
 
 [node name="GUI" parent="." instance=ExtResource("3_n7ypv")]
 
-[node name="Enemy" parent="." instance=ExtResource("5_0s5r2")]
+[node name="Enemy_1" parent="." instance=ExtResource("5_0s5r2")]
 multiplicador_velocidad = 1.15
 z_index = 1
 position = Vector2(-69, -25)
 scale = Vector2(0.975834, 0.911839)
 
-[node name="Enemy2" parent="." instance=ExtResource("5_0s5r2")]
+[node name="Enemy_2" parent="." instance=ExtResource("5_0s5r2")]
 z_index = 1
 position = Vector2(157, 486)
 scale = Vector2(0.928205, 0.818991)
 
-[node name="Enemy3" parent="." instance=ExtResource("5_0s5r2")]
-z_index = 1
-position = Vector2(488, 495)
-scale = Vector2(0.894739, 0.772798)
-
-[node name="enemis_8" parent="." instance=ExtResource("5_0s5r2")]
-z_index = 1
-position = Vector2(409, 258)
-scale = Vector2(0.862178, 0.805716)
-
-[node name="enemis_9" parent="." instance=ExtResource("7_7dov7")]
-z_index = 1
-position = Vector2(620, 375)
-scale = Vector2(1.2, 1.2)
-
-[node name="enemis_10" parent="." instance=ExtResource("7_7dov7")]
-z_index = 1
-position = Vector2(600, 215)
-scale = Vector2(1.0, 1.0)
-
-[node name="enemis_11" parent="." instance=ExtResource("7_7dov7")]
-z_index = 1
-position = Vector2(780, 125)
-scale = Vector2(1.0, 1.0)
-
-[node name="enemis_2" parent="." instance=ExtResource("6_7j8ne")]
+[node name="Enemy_3" parent="." instance=ExtResource("6_7j8ne")]
 z_index = 1
 position = Vector2(383, 365)
 scale = Vector2(0.577646, 0.59133)
 
-[node name="enemis_7" parent="." instance=ExtResource("6_7j8ne")]
+[node name="Enemy_4" parent="." instance=ExtResource("5_0s5r2")]
+z_index = 1
+position = Vector2(488, 495)
+scale = Vector2(0.894739, 0.772798)
+
+[node name="Enemy_5" parent="." instance=ExtResource("7_7dov7")]
+multiplicador_velocidad = 1.15
+z_index = 1
+position = Vector2(296, 137)
+
+[node name="Enemy_6" parent="." instance=ExtResource("6_7j8ne")]
+z_index = 1
+position = Vector2(276, 446)
+scale = Vector2(0.66662, 0.663544)
+
+[node name="Enemy_7" parent="." instance=ExtResource("6_7j8ne")]
+z_index = 1
+position = Vector2(938, 453)
+scale = Vector2(0.678893, 0.613526)
+
+[node name="Enemy_8" parent="." instance=ExtResource("7_7dov7")]
+z_index = 1
+position = Vector2(1035, 218)
+
+[node name="Enemy_9" parent="." instance=ExtResource("6_7j8ne")]
 multiplicador_velocidad = 1.15
 z_index = 1
 position = Vector2(1037, 9)
 scale = Vector2(0.888668, 0.867369)
 
-[node name="enemis_5" parent="." instance=ExtResource("6_7j8ne")]
+[node name="Enemy_10" parent="." instance=ExtResource("5_0s5r2")]
 z_index = 1
-position = Vector2(938, 453)
-scale = Vector2(0.678893, 0.613526)
+position = Vector2(409, 258)
+scale = Vector2(0.862178, 0.805716)
 
-[node name="enemis_4" parent="." instance=ExtResource("6_7j8ne")]
+[node name="Enemy_11" parent="." instance=ExtResource("7_7dov7")]
 z_index = 1
-position = Vector2(276, 446)
-scale = Vector2(0.66662, 0.663544)
+position = Vector2(620, 375)
+scale = Vector2(1.2, 1.2)
 
-[node name="enemis_3" parent="." instance=ExtResource("7_7dov7")]
-multiplicador_velocidad = 1.15
+[node name="Enemy_12" parent="." instance=ExtResource("7_7dov7")]
 z_index = 1
-position = Vector2(296, 137)
+position = Vector2(600, 215)
+scale = Vector2(1.0, 1.0)
 
-[node name="enemis_6" parent="." instance=ExtResource("7_7dov7")]
+[node name="Enemys_13" parent="." instance=ExtResource("7_7dov7")]
 z_index = 1
-position = Vector2(1035, 218)
+position = Vector2(780, 130)
+scale = Vector2(1.0, 1.0)
 
 [node name="Punto_nivel" type="Area2D" parent="."]
 position = Vector2(1142, 256)

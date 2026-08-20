@@ -35,57 +35,57 @@ position = Vector2(361, 328)
 zoom = Vector2(2.5, 2.5)
 target = NodePath("../Player")
 
-[node name="Enemy" parent="." instance=ExtResource("6_fmu3g")]
+[node name="Enemy_1" parent="." instance=ExtResource("6_fmu3g")]
 z_index = 1
 position = Vector2(387, 219)
 scale = Vector2(0.715095, 0.686123)
 
-[node name="Enemy3" parent="." instance=ExtResource("6_fmu3g")]
+[node name="Enemy_2" parent="." instance=ExtResource("6_fmu3g")]
 z_index = 1
 position = Vector2(275, 306)
 scale = Vector2(0.715095, 0.686123)
 
-[node name="Enemy2" parent="." instance=ExtResource("6_fmu3g")]
+[node name="Enemy_3" parent="." instance=ExtResource("6_fmu3g")]
 z_index = 1
 position = Vector2(521, 40)
 scale = Vector2(0.56409, 0.541509)
 
-[node name="enemis_2" parent="." instance=ExtResource("7_7ds5r")]
+[node name="Enemy_4" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
 position = Vector2(679, 177)
 scale = Vector2(0.726058, 0.651258)
 
-[node name="enemis_6" parent="." instance=ExtResource("7_7ds5r")]
+[node name="Enemy_5" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
 position = Vector2(742, 368)
 scale = Vector2(0.726058, 0.651258)
 
-[node name="enemis_3" parent="." instance=ExtResource("7_7ds5r")]
+[node name="Enemy_6" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
 position = Vector2(584, 508)
 scale = Vector2(0.437257, 0.474387)
 
-[node name="enemis_7" parent="." instance=ExtResource("7_7ds5r")]
+[node name="Enemy_7" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
 position = Vector2(400, 187)
 scale = Vector2(0.437257, 0.474387)
 
-[node name="enemis_4" parent="." instance=ExtResource("8_liaj6")]
+[node name="Enemy_8" parent="." instance=ExtResource("8_liaj6")]
 z_index = 1
 position = Vector2(648, 265)
 scale = Vector2(0.650946, 0.642485)
 
-[node name="enemis_5" parent="." instance=ExtResource("8_liaj6")]
+[node name="Enemy_9" parent="." instance=ExtResource("8_liaj6")]
 z_index = 1
 position = Vector2(577, 338)
 scale = Vector2(0.950946, 0.942485)
 
-[node name="enemis_8" parent="." instance=ExtResource("7_7ds5r")]
+[node name=Enemy_10" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
 position = Vector2(523, 190)
 scale = Vector2(0.537257, 0.574387)
 
-[node name="enemis_9" parent="." instance=ExtResource("7_7ds5r")]
+[node name="Enemy_11" parent="." instance=ExtResource("7_7ds5r")]
 z_index = 1
 position = Vector2(847, 295)
 scale = Vector2(0.550946, 0.542485)
