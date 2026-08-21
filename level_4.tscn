@@ -75,11 +75,11 @@ position = Vector2(524, 456)
 scale = Vector2(0.9, 0.87)
 
 [node name="Enemy_13" parent="." instance=ExtResource("3_aqy51")]
-position = Vector2(748, 296)
+position = Vector2(748, 291)
 scale = Vector2(0.65, 0.6)
 
 [node name="Enemy_14" parent="." instance=ExtResource("4_s24i2")]
-position = Vector2(637, 230)
+position = Vector2(637, 235)
 scale = Vector2(0.7, 0.68)
 
 [node name="Enemy_15" parent="." instance=ExtResource("5_66w8i")]
@@ -87,7 +87,7 @@ position = Vector2(760, 460)
 scale = Vector2(0.9, 0.87)
 
 [node name="Enemy_16" parent="." instance=ExtResource("5_66w8i")]
-position = Vector2(780, 130)
+position = Vector2(780, 135)
 scale = Vector2(0.9, 0.87)
 
 [node name="Enemy_17" parent="." instance=ExtResource("5_66w8i")]

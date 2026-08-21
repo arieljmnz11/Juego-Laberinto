@@ -72,12 +72,12 @@ scale = Vector2(0.437257, 0.474387)
 
 [node name="Enemy_8" parent="." instance=ExtResource("8_liaj6")]
 z_index = 1
-position = Vector2(648, 265)
-scale = Vector2(0.650946, 0.642485)
+position = Vector2(648, 280)
+scale = Vector2(0.850946, 0.842485)
 
 [node name="Enemy_9" parent="." instance=ExtResource("8_liaj6")]
 z_index = 1
-position = Vector2(577, 338)
+position = Vector2(577, 342)
 scale = Vector2(0.950946, 0.942485)
 
 [node name="Enemy_10" parent="." instance=ExtResource("7_7ds5r")]
