@@ -1,7 +1,7 @@
 [gd_scene load_steps=3 format=3 uid="uid://b8dpfc3d5r5wy"]
 
 [ext_resource type="Script" uid="uid://dd5c36i487ixq" path="res://cronometro.gd" id="1_suqnf"]
-[ext_resource type="Texture2D" uid="uid://eelunrnwiku6" path="res://estadisticas/timer.PNG" id="2_iktyg"]
+[ext_resource type="Texture2D" uid="uid://eelunrnwiku6" path="res://statistics/timer.PNG" id="2_iktyg"]
 
 [node name="cronometro" type="CanvasLayer" groups=["cronometro", "enemigo"]]
 script = ExtResource("1_suqnf")
