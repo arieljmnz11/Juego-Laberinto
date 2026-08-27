@@ -7,9 +7,9 @@
 [ext_resource type="PackedScene" uid="uid://n5eb0qfc04ex" path="res://camera_2d.tscn" id="4_1jdk1"]
 [ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://cronometro.tscn" id="4_6p2dc"]
 [ext_resource type="Script" uid="uid://b551ownu3a5ff" path="res://area_2d.gd" id="5_1jdk1"]
-[ext_resource type="PackedScene" uid="uid://cqufgfp8o18ct" path="res://Player_1/enemis/enemis.tscn" id="6_fmu3g"]
-[ext_resource type="PackedScene" uid="uid://8jxrp5er2avw" path="res://Player_1/enemis/enemis_2.tscn" id="7_7ds5r"]
-[ext_resource type="PackedScene" uid="uid://du7d25ld6lhl6" path="res://Player_1/enemis/enemis_3.tscn" id="8_liaj6"]
+[ext_resource type="PackedScene" uid="uid://cqufgfp8o18ct" path="res://Player_1/enemies/enemis.tscn" id="6_fmu3g"]
+[ext_resource type="PackedScene" uid="uid://8jxrp5er2avw" path="res://Player_1/enemies/enemis_2.tscn" id="7_7ds5r"]
+[ext_resource type="PackedScene" uid="uid://du7d25ld6lhl6" path="res://Player_1/enemies/enemis_3.tscn" id="8_liaj6"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_b60u5"]
 size = Vector2(54, 35)

@@ -1,8 +1,8 @@
 [gd_scene load_steps=4 format=3 uid="uid://bq6fkf6i1hks1"]
 
-[ext_resource type="Texture2D" uid="uid://b3mxoeo8llcio" path="res://Player_1/barra_vida/BLANCO.png" id="1_c57xx"]
-[ext_resource type="Texture2D" uid="uid://yq0ck6r8hwoj" path="res://Player_1/barra_vida/Bandera_verde.png" id="2_vixj4"]
-[ext_resource type="Script" uid="uid://djnj0l534o3b6" path="res://Player_1/barra_vida/texture_progress_bar_enemys.gd" id="3_n8hvf"]
+[ext_resource type="Texture2D" uid="uid://b3mxoeo8llcio" path="res://Player_1/health_bar/BLANCO.png" id="1_c57xx"]
+[ext_resource type="Texture2D" uid="uid://yq0ck6r8hwoj" path="res://Player_1/health_bar/Bandera_verde.png" id="2_vixj4"]
+[ext_resource type="Script" uid="uid://djnj0l534o3b6" path="res://Player_1/health_bar/texture_progress_bar_enemys.gd" id="3_n8hvf"]
 
 [node name="LifeBar" type="Node2D"]
 
