@@ -156,9 +156,9 @@ func guardar_datos_jugador():
 
 var selected_character = 0
 const characters = [
-	preload("res://Diablos/Wraith_01_Idle_000.png"),
-	preload("res://Diablos/Wraith_02_Idle_000.png"),
-	preload("res://Diablos/Wraith_03_Idle_000.png"),
+	preload("res://Devils/Wraith_01_Idle_000.png"),
+	preload("res://Devils/Wraith_02_Idle_000.png"),
+	preload("res://Devils/Wraith_03_Idle_000.png"),
 ]
 
 
@@ -169,7 +169,7 @@ const characters_dead = [
 ]
 
 const characters_stats = [
-	preload("res://Diablos/Wraith_01_Idle_000.png"),
-	preload("res://Diablos/Wraith_02_Idle_000.png"),
-	preload("res://Diablos/Wraith_03_Idle_000.png"),
+	preload("res://Devils/Wraith_01_Idle_000.png"),
+	preload("res://Devils/Wraith_02_Idle_000.png"),
+	preload("res://Devils/Wraith_03_Idle_000.png"),
 ]
