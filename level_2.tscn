@@ -3,7 +3,7 @@
 [ext_resource type="PackedScene" uid="uid://bgv7qwvtfa081" path="res://node_2d.tscn" id="1_jg0dc"]
 [ext_resource type="PackedScene" uid="uid://ukx5lv257pu1" path="res://Player_1_2d.tscn" id="2_1y8me"]
 [ext_resource type="PackedScene" uid="uid://n5eb0qfc04ex" path="res://camera_2d.tscn" id="3_7j8ne"]
-[ext_resource type="PackedScene" uid="uid://dkdwxxfma2tgw" path="res://Bar_life.tscn" id="3_n7ypv"]
+[ext_resource type="PackedScene" uid="uid://dkdwxxfma2tgw" path="res://life_bar.tscn" id="3_n7ypv"]
 [ext_resource type="PackedScene" uid="uid://cqufgfp8o18ct" path="res://Player_1/enemis/enemis.tscn" id="5_0s5r2"]
 [ext_resource type="PackedScene" uid="uid://8jxrp5er2avw" path="res://Player_1/enemis/enemis_2.tscn" id="6_7j8ne"]
 [ext_resource type="PackedScene" uid="uid://du7d25ld6lhl6" path="res://Player_1/enemis/enemis_3.tscn" id="7_7dov7"]

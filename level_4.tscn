@@ -1,11 +1,11 @@
 [gd_scene load_steps=11 format=3 uid="uid://bqtwp77ldvclj"]
 
-[ext_resource type="PackedScene" uid="uid://bgk4xwg67iq2w" path="res://Mapa Estático 4.tscn" id="1_na6m6"]
+[ext_resource type="PackedScene" uid="uid://bgk4xwg67iq2w" path="res://static_map_4.tscn" id="1_na6m6"]
 [ext_resource type="PackedScene" uid="uid://ukx5lv257pu1" path="res://Player_1_2d.tscn" id="2_xcfcc"]
 [ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://cronometro.tscn" id="3_48hld"]
 [ext_resource type="PackedScene" uid="uid://cqufgfp8o18ct" path="res://Player_1/enemis/enemis.tscn" id="3_aqy51"]
 [ext_resource type="PackedScene" uid="uid://n5eb0qfc04ex" path="res://camera_2d.tscn" id="3_s24i2"]
-[ext_resource type="PackedScene" uid="uid://dkdwxxfma2tgw" path="res://Bar_life.tscn" id="4_l45re"]
+[ext_resource type="PackedScene" uid="uid://dkdwxxfma2tgw" path="res://life_bar.tscn" id="4_l45re"]
 [ext_resource type="PackedScene" uid="uid://8jxrp5er2avw" path="res://Player_1/enemis/enemis_2.tscn" id="4_s24i2"]
 [ext_resource type="PackedScene" uid="uid://du7d25ld6lhl6" path="res://Player_1/enemis/enemis_3.tscn" id="5_66w8i"]
 [ext_resource type="Script" uid="uid://b551ownu3a5ff" path="res://area_2d.gd" id="9_66w8i"]
