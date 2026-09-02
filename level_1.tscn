@@ -8,7 +8,7 @@
 [ext_resource type="PackedScene" uid="uid://n5eb0qfc04ex" path="res://camera_2d.tscn" id="6_j7kpp"]
 [ext_resource type="PackedScene" uid="uid://dkdwxxfma2tgw" path="res://life_bar.tscn" id="7_j7kpp"]
 [ext_resource type="Script" uid="uid://b551ownu3a5ff" path="res://area_2d.gd" id="8_bjebc"]
-[ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://cronometro.tscn" id="9_5rr72"]
+[ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://timer.tscn" id="9_5rr72"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_j7kpp"]
 size = Vector2(53, 155)
@@ -69,7 +69,7 @@ target = NodePath("../Player")
 
 [node name="GUI" parent="." instance=ExtResource("7_j7kpp")]
 
-[node name="cronometro" parent="." instance=ExtResource("9_5rr72")]
+[node name="timer" parent="." instance=ExtResource("9_5rr72")]
 
 [node name="Punto_nivel" type="Area2D" parent="."]
 position = Vector2(1142, 256)

@@ -8,7 +8,7 @@
 [ext_resource type="PackedScene" uid="uid://8jxrp5er2avw" path="res://Player_1/enemies/enemis_2.tscn" id="6_7j8ne"]
 [ext_resource type="PackedScene" uid="uid://du7d25ld6lhl6" path="res://Player_1/enemies/enemis_3.tscn" id="7_7dov7"]
 [ext_resource type="Script" uid="uid://b551ownu3a5ff" path="res://area_2d.gd" id="8_7dov7"]
-[ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://cronometro.tscn" id="9_ehv2h"]
+[ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://timer.tscn" id="9_ehv2h"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ehv2h"]
 size = Vector2(35, 155)
@@ -19,7 +19,7 @@ size = Vector2(35, 155)
 position = Vector2(-248, -85)
 scale = Vector2(1.29896, 1.24524)
 
-[node name="cronometro" parent="." instance=ExtResource("9_ehv2h")]
+[node name="timer" parent="." instance=ExtResource("9_ehv2h")]
 
 [node name="Player" parent="." instance=ExtResource("2_1y8me")]
 z_index = 1

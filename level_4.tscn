@@ -2,7 +2,7 @@
 
 [ext_resource type="PackedScene" uid="uid://bgk4xwg67iq2w" path="res://static_map_4.tscn" id="1_na6m6"]
 [ext_resource type="PackedScene" uid="uid://ukx5lv257pu1" path="res://Player_1_2d.tscn" id="2_xcfcc"]
-[ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://cronometro.tscn" id="3_48hld"]
+[ext_resource type="PackedScene" uid="uid://b8dpfc3d5r5wy" path="res://timer.tscn" id="3_48hld"]
 [ext_resource type="PackedScene" uid="uid://cqufgfp8o18ct" path="res://Player_1/enemies/enemis.tscn" id="3_aqy51"]
 [ext_resource type="PackedScene" uid="uid://n5eb0qfc04ex" path="res://camera_2d.tscn" id="3_s24i2"]
 [ext_resource type="PackedScene" uid="uid://dkdwxxfma2tgw" path="res://life_bar.tscn" id="4_l45re"]
@@ -94,7 +94,7 @@ scale = Vector2(0.9, 0.87)
 position = Vector2(300, 470)
 scale = Vector2(0.8, 0.77)
 
-[node name="cronometro" parent="." instance=ExtResource("3_48hld")]
+[node name="timer" parent="." instance=ExtResource("3_48hld")]
 
 [node name="GUI" parent="." instance=ExtResource("4_l45re")]
 

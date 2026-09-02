@@ -1,9 +1,9 @@
 [gd_scene load_steps=3 format=3 uid="uid://b8dpfc3d5r5wy"]
 
-[ext_resource type="Script" uid="uid://dd5c36i487ixq" path="res://cronometro.gd" id="1_suqnf"]
+[ext_resource type="Script" uid="uid://dd5c36i487ixq" path="res://timer.gd" id="1_suqnf"]
 [ext_resource type="Texture2D" uid="uid://eelunrnwiku6" path="res://statistics/timer.PNG" id="2_iktyg"]
 
-[node name="cronometro" type="CanvasLayer" groups=["cronometro", "enemigo"]]
+[node name="timer" type="CanvasLayer"]
 script = ExtResource("1_suqnf")
 
 [node name="Timer" type="Sprite2D" parent="."]
@@ -12,7 +12,7 @@ position = Vector2(26, 604)
 scale = Vector2(0.133987, 0.119281)
 texture = ExtResource("2_iktyg")
 
-[node name="Label" type="Label" parent="." groups=["cronometro"]]
+[node name="Label" type="Label" parent="."]
 modulate = Color(0, 0, 0, 1)
 z_index = 1
 offset_left = 70.0
